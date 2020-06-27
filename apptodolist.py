@@ -1,4 +1,6 @@
-use_input = 'random'
+# Simple program that enable for you to make your to do list, add and remove items.
+
+user_input = 'random'
 data = []
 
 def show_menu():
